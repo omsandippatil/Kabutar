@@ -1364,7 +1364,7 @@ def download_from_url(url, model):
         shutil.rmtree("unzips")
         return "Success."
     except:
-        return "There's been an error."
+        return "There's been an error. But its still possible that the file can be imported. Please do refresh the list to see changes else Download your model Manually from Step 2."
 def success_message(face):
     return f'{face.name} has been uploaded.', 'None'
 def mouth(size, face, voice, faces):
@@ -1474,10 +1474,10 @@ def zip_downloader(model):
     else:
         return f'./weights/{model}.pth', "Could not find Index file."
 
-with gr.Blocks(theme=gr.themes.Base(), title='Mangio-RVC-Web 💻') as app:
+with gr.Blocks(theme=gr.themes.Base(), title='Easy-GUI') as app:
     with gr.Tabs():
         with gr.TabItem("Inference"):
-            gr.HTML("<h1> Easy-GUI v2 made easier by GOUTHAM</h1>")
+            gr.HTML("<h1> Easy-GUI made to convert your trained model with simple GUI. Made changes by GOUTHAM</h1>")
 
             # Inference Preset Row
             # with gr.Row():
@@ -1836,8 +1836,8 @@ with gr.Blocks(theme=gr.themes.Base(), title='Mangio-RVC-Web 💻') as app:
                 gr.Markdown(
                 """
                 Original RVC:https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
-                Mangio's RVC Fork:https://github.com/Mangio621/Mangio-RVC-Fork
-               
+                My RVC:https://github.com/spgoutham/RVC-Train.git
+                To train your own voice model without prior knowledge of RVC (Retrieval based Voice Conversion), you can follow the steps outlined in my provided Git repository :)
                 """
                 )
                 
