@@ -2084,7 +2084,7 @@ with gr.Blocks(theme=gr.themes.Base(), title='Easy-GUI') as app:
         else:
             print(
                 "Pretrained weights not downloaded. Disabling training tab.\n"
-                "Wondering how to train a voice? Visit here for the RVC model training guide: https://t.ly/RVC_Training_Guide\n"
+                "To train your own voice model without prior knowledge of RVC (Retrieval based Voice Conversion), you can follow the steps outlined in my provided Git repository https://github.com/spgoutham/RVC-Train.git \n"
                 "-------------------------------\n"
             )
                 
