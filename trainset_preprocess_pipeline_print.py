@@ -18,8 +18,8 @@ from my_utils import load_audio
 import tqdm
 
 DoFormant = False
-Quefrency = 0.0
-Timbre = 0.0
+Quefrency = 1.0
+Timbre = 1.0
 
 mutex = multiprocessing.Lock()
 f = open("%s/preprocess.log" % exp_dir, "a+")
