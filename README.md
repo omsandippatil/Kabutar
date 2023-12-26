@@ -7,7 +7,7 @@ Making Kabutar a Decentralized Project
 - Completed basic work on UI Nov 29
 - Started Phase 1 Hosting database on my spreadsheet.
 - Created first API for user authentication.
-
+- Making project public 26/12/2023
   
 ## To-Do Task
 - Forgot Password Page(Initial I am using my spreadsheet as a database to save my pocket money therefore I am really lazy to create an API for this)
