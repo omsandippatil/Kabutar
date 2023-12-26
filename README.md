@@ -9,6 +9,7 @@ Making Kabutar a Decentralized Project
 - Created first API for user authentication.
 - Making project public 26/12/2023
 - Added signup/onboarding API code but still confused on profile photo issue.
+- Improved Signup Security to check if Email already exist.
   
 ## To-Do Task
 - Forgot-Password Page(Initial I am using my spreadsheet as a database to save my pocket money therefore I am really lazy to create an API for this)
