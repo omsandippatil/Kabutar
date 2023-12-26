@@ -1,6 +1,14 @@
 ## Kabutar
 Making Kabutar a Decentralized Project
 
+## Kabutar Logs
+- Started Project Sept 04
+- Started working on UI/UX that I Stole from someone!
+- Completed basic work on UI Nov 29
+- Started Phase 1 Hosting database on my spreadsheet.
+- Created first API for user authentication.
+
+  
 ## To-Do Task
 - Forgot Password Page(Initial I am using my spreadsheet as a database to save my pocket money therefore I am really lazy to create an API for this)
 - Follow Page
