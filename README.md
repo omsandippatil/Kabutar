@@ -18,6 +18,8 @@ This is the easisest page, I call it stalking page where I stalk my crush, I am 
 ![Screenshot from 2023-12-24 16-57-09](https://github.com/omsandippatil/Kabutar/assets/131482831/1dc8d130-92b3-436d-8726-01a697e59c87)
 ## Activity Page
 This page I dont know how this works but If it works I dont touch it, I am also trying to add a activity page like old Instagram where I used to spy on someone. 
+
+
 ![Screenshot from 2023-12-24 16-57-23](https://github.com/omsandippatil/Kabutar/assets/131482831/86e2dafe-6abe-416a-bfc9-3c31b3270e3a)
 ## Profile Page
 I know I will face a lot of problems on this page due to decentralized approach.
