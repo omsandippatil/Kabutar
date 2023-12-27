@@ -26,6 +26,8 @@ I think its one of the easiest page in a decentralized sense but I am facing som
 ![Screenshot from 2023-12-24 16-54-51](https://github.com/omsandippatil/Kabutar/assets/131482831/47e3d0a8-fcfb-4d4b-b57f-62a14b132106)
 ## Search Page
 This is the easisest page, I call it stalking page where I stalk my crush, I am not including recents here for avoiding my personal embarasements.
+
+
 ![Screenshot from 2023-12-24 16-57-09](https://github.com/omsandippatil/Kabutar/assets/131482831/1dc8d130-92b3-436d-8726-01a697e59c87)
 ## Activity Page
 This page I dont know how this works but If it works I dont touch it, I am also trying to add a activity page like old Instagram where I used to spy on someone. 
