@@ -13,7 +13,7 @@ Making Kabutar a Decentralized Project
 - 27 December The Signup security somehow stopped working //Classic my luck.
 - 30 December Thinking of Creating a Colourful and cheerful UI
 - Forgot logging
-- woeked on home page threads
+- worked on home page threads
   
 ## To-Do Task
 - Forgot-Password Page(Initial I am using my spreadsheet as a database to save my pocket money therefore I am really lazy to create an API for this)
