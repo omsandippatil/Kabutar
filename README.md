@@ -40,3 +40,4 @@ This page I dont know how this works but If it works I dont touch it, I am also 
 ## Profile Page
 I know I will face a lot of problems on this page due to decentralized approach.
 ![Screenshot from 2023-12-24 16-57-35](https://github.com/omsandippatil/Kabutar/assets/131482831/ecdf051c-ca8e-495b-8f1b-010148fca0c4)
+
